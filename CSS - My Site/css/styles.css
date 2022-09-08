@@ -1,0 +1,27 @@
+/*
+https://colorhunt.co/palette/f9f2ed3ab0ffffb562f87474
+*/
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  background-color: #F9F2ED;
+}
+
+.middle-container {
+  background-color: #3AB0FF;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-container {
+  background-color: #FFB562;
+  height: 200px;
+  width: 200px;
+}
